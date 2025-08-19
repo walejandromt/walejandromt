@@ -9,8 +9,6 @@ More on [resume walejandromt](https://www.linkedin.com/in/walejandromt).
 walejandromt/walejandromt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-# Williams Alejandro
 **Senior Java Developer | Cloud-Native Microservices | AWS | Kubernetes | DevOps**
 
 ## Summary
