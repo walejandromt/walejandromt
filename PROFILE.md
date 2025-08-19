@@ -44,21 +44,20 @@ Developing, and maintaining enterprise-grade applications. Specialized in micros
 * Angular, TypeScript, HTML5, CSS3, Bootstrap
 * Kotlin Multiplatform
 
+### Top Skills
+* Spring MVC
+* Spring Data
+* Spring Security
+
 ## Experience
 
 **kubo.financiero**
-* 4 years 2 months
 * **Cloud-Native Software Engineer**
-  * July 2025 - Present (2 months)
+  * August 2025 - Present
   * Mexico City, Mexico
   * Developer with strong expertise in Java and the Spring ecosystem, focused on building scalable REST APIs, microservices, and integrating artificial intelligence into enterprise applications.
-  * AI & Automation:
-    * AI Integration with LLMs (OpenAI, Ollama, Hugging Face)
-    * MCP Server & MCP Client for intelligent agent control and orchestration
-    * Chatbots and automation with Chatwoot and WhatsApp API
-    * RAG (Retrieval-Augmented Generation) and embeddings
 * **Senior Software Development Engineer**
-  * July 2021 - July 2025 (4 years 1 month)
+  * July 2021 - July 2025
   * Mexico City, Mexico
   * Designed and developed Java microservices using Spring Boot deployed on Kubernetes (EKS) with Docker and Containerd.
   * Integrated asynchronous messaging using Kafka and RabbitMQ.
@@ -68,7 +67,7 @@ Developing, and maintaining enterprise-grade applications. Specialized in micros
 
 **Latbc Consulting**
 * **Java Software Developer**
-* November 2019 - January 2022 (2 years 3 months)
+* November 2019 - January 2022
 * Mexico City, Mexico
 * Developed microservices using Spring Cloud with Netflix OSS stack (Eureka, Zuul, Ribbon, Hystrix).
 * Implemented optimized Spring Batch jobs with multithreading.
@@ -77,44 +76,37 @@ Developing, and maintaining enterprise-grade applications. Specialized in micros
 
 **Softtek**
 * **Senior Java Development Environment Consultant**
-* November 2018 - November 2019 (1 year 1 month)
+* November 2018 - November 2019
 * Mexico City, Mexico
 * Maintenance of production applications under quality standards (CMM, Six Sigma).
 * Tools: Java EE, Spring MVC, JSP, JQuery, HP Quality Center.
 
 **axity**
 * **Software Application Developer**
-* October 2017 - November 2018 (1 year 2 months)
+* October 2017 - November 2018
 * Mexico City and surrounding areas, Mexico
 * Development and deployment of applications in 3.0 architecture with Spring Boot on WebLogic.
 
 **Qualtop**
 * **Java Developer**
-* October 2016 - October 2017 (1 year 1 month)
+* October 2016 - October 2017
 * Mexico City and surrounding areas, Mexico
 * Development of web applications with SpringMVC, Spring Security, Oracle and consumption of SOAP services with Axis 2.
 * Responsive frontend with HTML5, CSS3, Bootstrap, JQuery and JSON.
 
 **Bufete de Tecnología y Soluciones Avanzadas, S.C.**
 * **Full-stack Developer**
-* July 2014 - September 2016 (2 years 3 months)
+* July 2014 - September 2016
 * Mexicali, Baja California
 * Development of web applications, batch processes and desktop solutions.
 * Stack: JSF, PrimeFaces, Spring, JSP, C#, WPF, Apache CXF.
-
-## Top Skills
-* Spring MVC
-* Spring Data
-* Spring Security
 
 ## Languages
 * Spanish (Native or Bilingual)
 * English (Limited Working)
 
 ## Certifications
-* Duolingo English Fluency: Advanced (Estimated)
-* Duolingo English Fluency: Basic (Estimated)
-* Duolingo English Fluency: Intermediate (Estimated)
+* Duolingo English Fluency Certifications
 
 ## Publications
 * Development of WebApp in Wordpress and integration of plugins SEO and WooComerce.
