@@ -53,7 +53,7 @@ Developing, and maintaining enterprise-grade applications. Specialized in micros
 
 **kubo.financiero**
 * **Cloud-Native Software Engineer**
-  * August 2025 - Present
+  * July 2025 - Present
   * Mexico City, Mexico
   * Developer with strong expertise in Java and the Spring ecosystem, focused on building scalable REST APIs, microservices, and integrating artificial intelligence into enterprise applications.
 * **Senior Software Development Engineer**
