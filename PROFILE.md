@@ -59,61 +59,32 @@ Developing, and maintaining enterprise-grade applications. Specialized in micros
 * **Senior Software Development Engineer**
   * July 2021 - July 2025
   * Mexico City, Mexico
-  * Designed and developed Java microservices using Spring Boot deployed on Kubernetes (EKS) with Docker and Containerd.
-  * Integrated asynchronous messaging using Kafka and RabbitMQ.
-  * Leveraged AWS services such as ECS with Fargate, EventBridge, Secrets Manager, and IAM for secure, event-driven applications.
-  * Implemented Istio for service mesh and API observability.
-  * Built CI/CD pipelines with Jenkins and implemented monitoring via Prometheus and Grafana.
 
 **Latbc Consulting**
 * **Java Software Developer**
 * November 2019 - January 2022
 * Mexico City, Mexico
-* Developed microservices using Spring Cloud with Netflix OSS stack (Eureka, Zuul, Ribbon, Hystrix).
-* Implemented optimized Spring Batch jobs with multithreading.
-* Delivered new web modules in Angular and resolved production issues.
-* Tools used: Jenkins, SonarQube, Spring Cloud Config, OpenAPI/Swagger
 
 **Softtek**
 * **Senior Java Development Environment Consultant**
 * November 2018 - November 2019
 * Mexico City, Mexico
-* Maintenance of production applications under quality standards (CMM, Six Sigma).
-* Tools: Java EE, Spring MVC, JSP, JQuery, HP Quality Center.
 
 **axity**
 * **Software Application Developer**
 * October 2017 - November 2018
 * Mexico City and surrounding areas, Mexico
-* Development and deployment of applications in 3.0 architecture with Spring Boot on WebLogic.
 
 **Qualtop**
 * **Java Developer**
 * October 2016 - October 2017
 * Mexico City and surrounding areas, Mexico
-* Development of web applications with SpringMVC, Spring Security, Oracle and consumption of SOAP services with Axis 2.
-* Responsive frontend with HTML5, CSS3, Bootstrap, JQuery and JSON.
 
 **Bufete de Tecnología y Soluciones Avanzadas, S.C.**
 * **Full-stack Developer**
 * July 2014 - September 2016
 * Mexicali, Baja California
-* Development of web applications, batch processes and desktop solutions.
-* Stack: JSF, PrimeFaces, Spring, JSP, C#, WPF, Apache CXF.
-
-## Languages
-* Spanish (Native or Bilingual)
-* English (Limited Working)
-
-## Certifications
-* Duolingo English Fluency Certifications
-
-## Publications
-* Development of WebApp in Wordpress and integration of plugins SEO and WooComerce.
-* Application of Basic Mathematical Morphology Algorithms.
 
 ## Education
 * **Universidad Juárez Autónoma de Tabasco**
   * Bachelor's Degree in Computer Systems, Software Development (2010-2015)
-* **Free Code Camp**
-  * Full Stack Web Development Certification, Computer Software Engineering (2015-2016)
